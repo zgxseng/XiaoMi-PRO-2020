@@ -46,4 +46,8 @@ option和command键位调换，（win和alt键位调换）。
 
 读卡器读卡器：可能不会正常工作
 
-INTEL 无线网卡：不能工作
+INTEL 无线网卡：不能工作。
+
+注意事项   未解锁cfg  需要修改  AppleCpuPmCfgLock   AppleXcpmCfgLock  两项
+开启
+
